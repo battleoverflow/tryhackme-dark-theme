@@ -1,4 +1,4 @@
-/* 
+/*
 Creator: Hifumi-Sec
 */
 
@@ -45,4 +45,20 @@ ul.pagination.justify-content-center.m0 a:hover {
 
 div.text-lgray.size-12 {
   color: #000;
+}
+
+label.bold {
+  color: #ffffff;
+}
+
+h5.text-black.bold.mb-0 {
+  color: #ffffff;
+}
+
+text.apexcharts-title-text {
+  fill: white;
+}
+
+a.clear-link.practice-card-design {
+  background-color: #21262D;
 }
