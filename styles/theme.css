@@ -1,5 +1,6 @@
 /*
-Creator: Hifumi-Sec
+Author: Hifumi1337 <https://github.com/Hifumi1337>
+Contributors: Vargrey <https://github.com/Vargrey>
 */
 
 body {
@@ -25,7 +26,15 @@ div.card-block.px-2.room-body, div.card-footer.text-muted.room-card-footer, div.
   color: #fff;
 }
 
-pre.language-python, div p code {
+.apexcharts-tooltip-title,
+.apexcharts-tooltip-series-group, 
+.apexcharts-active{
+  color: #000 !important;
+}
+
+pre.language-python,
+pre.language-javascript,
+div p code {
   background-color: #21262d;
   border: 1px solid #fff;
 }

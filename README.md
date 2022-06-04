@@ -1,6 +1,6 @@
 # TryHackMe Dark Theme
 
-This is a dark theme created for TryHackMe, a Cybersecurity training platform that currently hosts over 400 rooms for various aspects of Cybersecurity.
+This is a dark theme created for TryHackMe, a Cybersecurity training platform that currently hosts over 500 rooms for various aspects of Cybersecurity.
 
 I created this stylesheet because I do a lot of CTFs/rooms at night, and this makes it easier to traverse the website when in a dark environment. If TryHackMe ever releases a dark theme, then I will archive this repository, but for now, I wanted to create a temporary dark mode for myself and anyone else who may prefer it.
 
@@ -12,4 +12,12 @@ To install the dark theme, you will need a browser extension. I personally use S
 
 Once Stylebot is successfully configured and set-up, open the extension, and on the left sidebar you should see "Sync", upload the provided JSON file there. You should now have a dark theme for TryHackMe!
 
-Please feel free to add an issue if you find any weird color combinations, unreadable text, etc., but don't feel comfortable creating a pull request. I am happy to look into these as they're submitted!
+Please feel free to add an issue if you find any weird color combinations, unreadable text, etc. I am happy to look into these as they're submitted!
+
+Here are a few examples of the new theme:
+
+### Profile:
+<img src="assets/profile.png" alt="Profile with dark theme">
+
+### Dashboard:
+<img src="assets/dashboard.png" alt="Dashboard with dark theme">
