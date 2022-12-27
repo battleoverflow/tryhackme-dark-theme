@@ -8,9 +8,9 @@ All pull requests are 100% welcome to improve the stylesheet since there are mos
 
 ## Instructions
 
-To install the dark theme, you will need a browser extension. I personally use Stylebot since it's the easiest to use, in my opinion. You can download Stylebot here: https://stylebot.dev/ (It's available on Google Chrome, Firefox, and Edge).
+To install the dark theme, you will need a browser extension. I use Stylebot since it's the easiest to configure; in my opinion. You can download Stylebot here: https://stylebot.dev/ (It's available on Google Chrome, Firefox, and Edge).
 
-Once Stylebot is successfully configured and set-up, open the extension, and on the left sidebar you should see "Sync", upload the provided JSON file there. You should now have a dark theme for TryHackMe!
+Once Stylebot is successfully configured and set up, open the extension, and on the left sidebar you should see "Sync", upload the provided JSON file there. You should now have a dark theme for TryHackMe!
 
 Please feel free to add an issue if you find any weird color combinations, unreadable text, etc. I am happy to look into these as they're submitted!
 
