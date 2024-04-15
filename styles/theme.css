@@ -1,5 +1,5 @@
 /*
-Author: azazelm3dj3d (https://github.com/azazelm3dj3d)
+Author: battleoverflow (https://github.com/battleoverflow)
 Contributors: Vargrey (https://github.com/Vargrey)
 */
 
@@ -41,6 +41,10 @@ div p code {
 
 div.container.profile-body {
   background-color: #000;
+}
+
+#profile-banner {
+  background-color: #18181b;
 }
 
 ul.pagination.justify-content-center.m0 a:hover {
